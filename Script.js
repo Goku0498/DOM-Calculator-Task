@@ -59,12 +59,3 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
-
-
-
-
-
-
-
-
-
